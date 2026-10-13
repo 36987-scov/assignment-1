@@ -136,4 +136,4 @@ Several datasets are illustrative or synthetic, so those results describe the me
 
 ## AI use declaration
 
-I used AI to assist with explanations and debugging of code. The resulting implementation was tested, and the project author reviewed the code and its outputs.
+I used AI to assist with explanations and debugging of code. The resulting implementation was tested, and the I reviewed the code and its outputs.
